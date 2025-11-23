@@ -1,2 +1,2 @@
 # sacra-privacy-policy
-Privacy policy for SacraChat
+Privacy policy for Sacra
